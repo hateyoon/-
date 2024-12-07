@@ -1,7 +1,7 @@
 ## 기술 공부
 
 - ### Postgresql
-  - [postgresql 설치법]([https://github.com/hateyoon/-/blob/main/%EA%B8%B0%EC%88%A0%EA%B3%B5%EB%B6%80/%EA%B3%B5%EB%B6%801.md](https://github.com/hateyoon/-/blob/main/%EA%B8%B0%EC%88%A0%EA%B3%B5%EB%B6%80/postgres%EC%84%A4%EC%B9%98%EB%B2%95.md))
+  - [postgresql 설치법](https://github.com/hateyoon/-/blob/main/%EA%B8%B0%EC%88%A0%EA%B3%B5%EB%B6%80/postgres%EC%84%A4%EC%B9%98%EB%B2%95.md)
 
 - ### Dbeaver 연결
 
