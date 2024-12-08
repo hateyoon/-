@@ -31,3 +31,27 @@ MariaDB : mariadb-10.2.14-winx64
   
 MySQL Workbench : mysql-workbench-community-8.0.18-winx64
   ( https://dev.mysql.com/downloads/workbench/ )
+
+---------------------
+
+### Tomcat 설정
+
+#### Apache와 Tomcat의 장단점
+
+Apache와 Tomcat의 장단점을 알아보면서 Tomcat을 사용한 이유를 알아보겠습니다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
