@@ -47,7 +47,7 @@ MySQL Workbench : mysql-workbench-community-8.0.18-winx64
 
 Apache와 Tomcat의 장단점을 알아보면서 Tomcat을 사용한 이유를 알아보겠습니다.
 
-
+-------------
 
 ### APACHE 
 
@@ -57,8 +57,10 @@ Apache와 Tomcat의 장단점을 알아보면서 Tomcat을 사용한 이유를 �
 트이터 트레픽 과부화에 강함
 
 #### 단점
+
 정적인 데어터만 처리 가능
 다른 서비스와 상호작용 불가능
+
 ---------------------------
 
 ### TOMCAT
