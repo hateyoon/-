@@ -1,10 +1,10 @@
-## SPRING 초기환경세팅
+# SPRING 초기환경세팅
 
 ------
 
 스프링 초기환경을 세팅해 보겠습니다.
 
-### JDK 설치
+## 1. JDK 설치
 
 jdk를 설치하기 전에 jdk와 jre 차이점을 알아보겠습니다.
 
@@ -19,7 +19,7 @@ jdk를 설치하기 전에 jdk와 jre 차이점을 알아보겠습니다.
 
 JRE는 최소 개발 환경을 제공하고 jDK는 실행환경 뿐 아니라 여러가지 명렁어 그리고 컴파일러가 제공되기 떄문에 JDK를 설치하겠습니다.
 
-## 개발환경 세팅
+## 2. 개발환경 세팅
 
 JAVA : JDK1.8 (1.8u_231)
   ( https://www.oracle.com/technetwork/java/javase/downloads/index.html )
@@ -41,7 +41,7 @@ MySQL Workbench : mysql-workbench-community-8.0.18-winx64
 
 ---------------------
 
-### Tomcat 설정
+## 3. Tomcat 설정
 
 #### Apache와 Tomcat의 장단점
 
