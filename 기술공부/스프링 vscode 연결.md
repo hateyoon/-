@@ -1,4 +1,4 @@
-# SPRING <> VSCODE 연결
+# SPRING <> VSCODE 연결 (GRADLE)
 
 
 
