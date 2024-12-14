@@ -22,3 +22,6 @@
   <img width="609" alt="스크린샷 2024-12-14 오후 4 29 49" src="https://github.com/user-attachments/assets/9d2d7308-beea-4420-8a83-b518fb3f6acd" />
 
 
+### 2.프로젝트 생성
+
+##### [command] + [Shift] + [P]  실행
