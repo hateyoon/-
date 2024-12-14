@@ -9,7 +9,7 @@
 
 - ### SPRING
   - [초기 환경세팅](https://github.com/hateyoon/HOMEWORK/blob/main/%EA%B8%B0%EC%88%A0%EA%B3%B5%EB%B6%80/SPRING%20%EC%B4%88%EA%B8%B0%EC%84%B8%ED%8C%85.md)
-  - [vscode와 연결]( 
+  - [vscode와 연결](https://github.com/hateyoon/HOMEWORK/blob/main/%EA%B8%B0%EC%88%A0%EA%B3%B5%EB%B6%80/%EC%8A%A4%ED%94%84%EB%A7%81%20vscode%20%EC%97%B0%EA%B2%B0.md)
 
 
 
