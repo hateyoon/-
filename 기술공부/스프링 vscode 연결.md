@@ -69,6 +69,13 @@
 
 <img width="749" alt="스크린샷 2024-12-14 오후 10 26 15" src="https://github.com/user-attachments/assets/3e33da93-c64d-4c3e-a4fa-83787b22df8f" />
 
+
+-------------
+
+## 코드 적용
+
+
+
 src > main > java > com > project_s > project > ProjectApplication.java
 
 여기에 코드 삽입
@@ -104,7 +111,15 @@ class Helloworld {
 ./gradlew bootRun
 
 ```
+동작을 해준다.
 
+
+## 테스트
+
+```
+localhost:8080
+```
+접속 했을때 정상적으로 Hello! 나오면 성공입니다.
 
 
 
